@@ -33,7 +33,7 @@ export default defineConfig({
 				public_folder: "/images",
 				i18n: {
 					structure: "multiple_folders",
-					locales: ["en", "it"],
+					locales: ["en", "it", "ru", "uk"],
 					default_locale: "en",
 				},
 				collections: [
